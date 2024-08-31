@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShfelImagesAndInsertIntoTbItemImages", "ShfelImagesAndInsertIntoTbItemImages.csproj", "{99FD363A-1A1E-4D54-8E4B-D7A393FE114C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FD363A-1A1E-4D54-8E4B-D7A393FE114C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FD363A-1A1E-4D54-8E4B-D7A393FE114C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FD363A-1A1E-4D54-8E4B-D7A393FE114C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FD363A-1A1E-4D54-8E4B-D7A393FE114C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41A38514-384C-4B51-811B-2C7E6E46D414}
+	EndGlobalSection
+EndGlobal
